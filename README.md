@@ -9,5 +9,5 @@ together with the determination that I am affected by them, are a huge and insat
 </p>
 
 <div align="center">
-<a href=""><img src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/art.png"/></a>
+<a href="https://jetzalterity.neocities.org/"><img src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/art.png"/></a>
 </div>
