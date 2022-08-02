@@ -8,4 +8,6 @@ My understandings and interests jump like a frog from scientific fields to human
 together with the determination that I am affected by them, are a huge and insatiable species of outlawed beast, whose existence is reduced to a simple accessory or means by which it is conducted when the understanding is supposed to be substantial.
 </p>
 
-<img src="" alt="">
+<div align="center">
+<a href=""><img src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/train-01.gif" /></a>
+</div>
