@@ -3,9 +3,7 @@
 </h1>
 
 <p align="justify">
-Student a couple of steps away from concluding the culmination of his career, that green peak raised above clouds of strong cold air that has required so much placid effort to climb.
-My understandings and interests jump like a frog from scientific fields to humanistic knowledge, giving special emphasis to the first, without letting go of the second; the inclination for the aforementioned fields, 
-together with the determination that I am affected by them, are a huge and insatiable species of outlawed beast, whose existence is reduced to a simple accessory or means by which it is conducted when the understanding is supposed to be substantial
+Estudiante de Ciencias de la Computación e Ingeniería, a un par de pasos más de dar por concluido el culmen de mi carrera, aquella vergel cima alzada sobre nubes de fuerte aire frío. Mis entendimientos e intereses saltan cuasi rana tanto en ámbitos humanisticos como cientificos, entre otras muchas cosas que en autognosis se me interpelen; la inclinación por estos campos, junto con la determinación que por ellos me veo afectado, son una especie descomunal e insaciable de proscrita bestia, cuya existencia es reducida a un simple accesorio o medio por el cual se conduce cuando el entendimiento supone ser lo sustancial.
 </p>
 
 <div align="center">
