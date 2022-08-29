@@ -7,5 +7,5 @@ Estudiante de Ciencias de la Computación e Ingeniería, a un par de pasos más 
 </p>
 
 <div align="center">
-<a href="https://jetzalterity.neocities.org/"><img src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/Doré.png"/></a>
+<a href="https://jetzalterity.neocities.org/"><img src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/Doré.jpg"/></a>
 </div>
