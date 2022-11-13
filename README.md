@@ -1,9 +1,9 @@
 <pre>
-##---------------------------------------------------------------------------##
 ##    =======================================================
 ##    Andrés D'infante, <'ainfanthe@gmail.com'>
 ##    v0.1, noviembre 15 del 2022
 ##    =======================================================
+##---------------------------------------------------------------------------##
 ##
 ##    Tabla contenido: [1. Introducción {1.1 Sobre mí} +
 ##    {1.2 Pasatiempos e intereses}]
@@ -36,5 +36,6 @@
 ##      [lógica difusa, computación + sistemas bioinspirados ...
 ##      teoría de la información en sistemas entrópicos, sistemas 
 ##      inteligentas, teoría de sistemas complejos, etc]
+##
 ##---------------------------------------------------------------------------##
 </pre>
