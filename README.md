@@ -1,17 +1,16 @@
 <pre>
 ##---------------------------------------------------------------------------##
+##    =======================================================
 ##    Andrés D'infante, <'ainfanthe@gmail.com'>
 ##    v0.1, noviembre 15 del 2022
-##    (https://mynd.neocities.org/)
+##    =======================================================
 ##
-##    Note: ???, voy a considerar los organismos vivientes
+##    Nota: ???, voy a considerar los organismos vivientes
 ##    como si fueran puramente sistemas automáticos digitales
-##    -------------
+##    ---
 ##
-##    ==================================================
 ##    Tabla contenido: [1. Introducción {1.1 Sobre mí} +
 ##    {1.2 Pasatiempos e intereses}]
-##    ==================================================
 ##    
 ##    1. Introducción
 ##    1.1 Sobre mí
@@ -20,7 +19,7 @@
 ##    Ingeniería, a un par de pasos más de dar por concluido el
 ##    culmen de mi carrera, aquella vergel cima alzada sobre 
 ##    nubes de fuerte aire frío.    
-##    -------------
+##    ---
 ##    
 ##    1.2 Pasatiempos e intereses
 ##    
