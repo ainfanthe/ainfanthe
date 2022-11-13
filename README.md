@@ -33,6 +33,9 @@
 ##    simple accesorio o medio por el cual se conduce cuando el
 ##    entendimiento supone ser lo sustancial.
 ##    
-##    [computación, matemáticas, escritura, música, lectura]
+##    [{computación, matemáticas, escritura, música, lectura, poesía(haiku};
+##    {lógica difusa, computación o sistemas bioinspirados, teoría de la in-
+##    formación en sistemas entrópicos, sistemas inteligentas, teoría de
+##    sistemas complejos, etc}]
 ##---------------------------------------------------------------------------##
 </pre>
