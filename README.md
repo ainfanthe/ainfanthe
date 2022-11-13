@@ -19,14 +19,15 @@
 ##    
 ##    1.2 Pasatiempos e intereses
 ##    
-##    Mis entendimientos e intereses saltan cuasi rana tanto en
-##    ámbitos humanisticos como cientificos, entre otras muchas
-##    cosas que en autognosis se me interpelen; la inclinación por
-##    estos campos, junto con la determinación que por ellos me
-##    veo afectado, son una especie descomunal e insaciable de
-##    proscrita bestia, cuya existencia se reduce per se a un 
-##    simple accesorio o medio por el cual se conduce cuando el 
-##    entendimiento supone ser lo sustancial.
+##    Mis entendimientos e intereses saltan cuasi rana tanto
+##    en ámbitos humanisticos como cientificos, entre otras
+##    muchas cosas que en autognosis se me interpelen; la in-
+##    clinación por estos campos, junto con la determinación
+##    que por ellos me veo afectado, son una especide descom-
+##    unal e insaciable de proscrita bestia, cuya existencia
+##    se reduce per se a un simple accesorio o medio por el
+##    cual se conduce cuando el entendimiento supone ser lo
+##    sustancial.
 ##    
 ##    [computación, matemáticas, escritura, música, lectura]
 ##---------------------------------------------------------------------------##
