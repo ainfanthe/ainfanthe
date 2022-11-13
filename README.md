@@ -1,6 +1,6 @@
 <pre>
 ##---------------------------------------------------------------------------##
-##    Felipe D'infante, <'ainfanthe@gmail.com'>
+##    Andrés D'infante, <'ainfanthe@gmail.com'>
 ##    v0.1, noviembre 15 del 2022
 ##    (https://mynd.neocities.org/)
 ##
@@ -33,9 +33,10 @@
 ##    simple accesorio o medio por el cual se conduce cuando el
 ##    entendimiento supone ser lo sustancial.
 ##    
-##    [{computación, matemáticas, escritura, música, lectura, poesía(haiku};
-##    {lógica difusa, computación o sistemas bioinspirados, teoría de la in-
-##    formación en sistemas entrópicos, sistemas inteligentas, teoría de
-##    sistemas complejos, etc}]
+##    [{sistemas, computación, matemáticas, escritura, música ...
+##    lectura, poesía(haiku}, cine; {lógica difusa, computación +
+##    sistemas bioinspirados, teoría de la información en sistemas
+##    entrópicos, sistemas inteligentas, teoría de sistemas
+##    complejos, etc}]
 ##---------------------------------------------------------------------------##
 </pre>
