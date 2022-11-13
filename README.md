@@ -4,10 +4,6 @@
 ##    By: Felipe, ainfanthe at gmail dot com
 ##
 ##    -------------
-##    Table of Contents
-##    1. Introduction
-##     1.1. About the FAQ
-##     1.2. Asking Questions and Sending Comments
 ##
 ##    1. Introducción
 ##    1.1 Sobre mí
