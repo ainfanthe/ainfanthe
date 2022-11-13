@@ -5,10 +5,6 @@
 ##    v0.1, noviembre 15 del 2022
 ##    =======================================================
 ##
-##    Nota: ???, voy a considerar los organismos vivientes
-##    como si fueran puramente sistemas automáticos digitales
-##    ---
-##
 ##    Tabla contenido: [1. Introducción {1.1 Sobre mí} +
 ##    {1.2 Pasatiempos e intereses}]
 ##    
@@ -31,11 +27,14 @@
 ##    de proscrita bestia, cuya existencia se reduce per se a un
 ##    simple accesorio o medio por el cual se conduce cuando el
 ##    entendimiento supone ser lo sustancial.
-##    
-##    [{sistemas, computación, matemáticas, escritura, música ...
-##    lectura, poesía(haiku}, cine; {lógica difusa, computación +
-##    sistemas bioinspirados, teoría de la información en sistemas
-##    entrópicos, sistemas inteligentas, teoría de sistemas
-##    complejos, etc}]
+##
+##    Hobbies:
+##      [sistemas, computación, matemáticas, escritura, música ...
+##      lectura, poesía{haiku}, cine]
+##
+##    Interests:
+##      [lógica difusa, computación + sistemas bioinspirados ...
+##      teoría de la información en sistemas entrópicos, sistemas 
+##      inteligentas, teoría de sistemas complejos, etc]
 ##---------------------------------------------------------------------------##
 </pre>
