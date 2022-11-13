@@ -2,9 +2,12 @@
 <pre>
 ##---------------------------------------------------------------------------##
 ##    By: Felipe, ainfanthe at gmail dot com
-##
 ##    -------------
-##
+##    
+##    Tabla contenido: [1. Introducción {1.1 Sobre mí} +
+##    {1.2 Pasatiempos e intereses}]
+##    -------------
+##    
 ##    1. Introducción
 ##    1.1 Sobre mí
 ##    
@@ -18,9 +21,9 @@
 ##    
 ##    Mis entendimientos e intereses saltan cuasi rana tanto en
 ##    ámbitos humanisticos como cientificos, entre otras muchas
-##    cosas que en autognosis se me interpelen; la inclinación 
-##    por estos campos, junto con la determinación que por ellos
-##    me veo afectado, son una especie descomunal e insaciable de
+##    cosas que en autognosis se me interpelen; la inclinación por
+##    estos campos, junto con la determinación que por ellos me
+##    veo afectado, son una especie descomunal e insaciable de
 ##    proscrita bestia, cuya existencia se reduce per se a un 
 ##    simple accesorio o medio por el cual se conduce cuando el 
 ##    entendimiento supone ser lo sustancial.
