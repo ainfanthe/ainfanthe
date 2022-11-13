@@ -1,4 +1,4 @@
-
+<body bgcolor="#000000" text="#DDDDDD" link="#00FF00" alink="#00FF00" vlink="#00FF00" style="margin: auto; width:50%">
 <pre>
 ##---------------------------------------------------------------------------##
 ##    By: Felipe, ainfanthe at gmail dot com
@@ -31,3 +31,4 @@
 ##    [computación, matemáticas, escritura, música, lectura]
 ##---------------------------------------------------------------------------##
 </pre>
+</body>
