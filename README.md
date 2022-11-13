@@ -1,12 +1,17 @@
-<body bgcolor="#000000" text="#DDDDDD" link="#00FF00" alink="#00FF00" vlink="#00FF00" style="margin: auto; width:50%">
 <pre>
 ##---------------------------------------------------------------------------##
-##    By: Felipe, ainfanthe at gmail dot com
+##    Felipe D'infante, <'ainfanthe@gmail.com'>
+##    v0.1, noviembre 15 del 2022
+##    (https://mynd.neocities.org/)
+##
+##    Note: ???, voy a considerar los organismos vivientes
+##    como si fueran puramente sistemas automáticos digitales
 ##    -------------
-##    
+##
+##    ==================================================
 ##    Tabla contenido: [1. Introducción {1.1 Sobre mí} +
 ##    {1.2 Pasatiempos e intereses}]
-##    -------------
+##    ==================================================
 ##    
 ##    1. Introducción
 ##    1.1 Sobre mí
@@ -31,4 +36,3 @@
 ##    [computación, matemáticas, escritura, música, lectura]
 ##---------------------------------------------------------------------------##
 </pre>
-</body>
