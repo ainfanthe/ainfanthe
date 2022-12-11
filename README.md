@@ -5,7 +5,7 @@ sustancial. Estaré un rato por aquí:
 - https://cs.stackexchange.com/users/156017/Dinfante-Felipe
 - https://mastodon.la/@aninfant
 ### Intereses
-Me subyacen variopintos entendimientos e intereses que saltan cuasi rana de biología computacional, estudio de sistemas complejos e inteligentes, matemáticas, teoría de la información, lógica difusa o filosofía [...], etcétera.
+Me subyacen variopintos entendimientos e intereses que saltan cuasi rana de biología computacional, estudio de sistemas complejos e inteligentes, matemáticas, teoría de la información, lógica difusa o filosofía [...], hasta un largo etcétera.
 
 ---
 > As our emblem and coat of arms, I propose a tree mightily shaken by the wind, but still bearing its ruddy fruit on every branch; with the motto Dum convellor mitescunt, or Conquassata sed ferax.
