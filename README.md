@@ -6,4 +6,4 @@ sustancial.
 - https://mastodon.la/@aninfant
 
 ### Intereses
-Me subyacen entendimientos e intereses que van desde biología computacional, estudio de sistemas complejos e inteligentes, matemáticas, teoría de la información, lógica difusa o filosofía [...], entre algunas otras cosas que en autognosis se me interpelen.
+Me subyacen variopintos entendimientos e intereses que saltan cuasi rana de biología computacional, estudio de sistemas complejos e inteligentes, matemáticas, teoría de la información, lógica difusa o filosofía [...], entre algunas otras cosas que en autognosis se me interpelen.
