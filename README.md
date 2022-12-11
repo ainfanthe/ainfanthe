@@ -3,7 +3,6 @@ Estudiante filo-polímata en computación e ingeniería de sistemas dispuesto de
 diversas ramas o ámbitos del saber humano: mi propia existencia se reduce a un simple accesorio | medio por el cual me conduzco cuando el entendimiento supone ser lo
 sustancial. 
     
-Cuento con entendimientos e intereses que van desde biología computacional, estudio de sistemas complejos e inteligentes, matemáticas, teoría de la información,
-lógica difusa, filosofía, [...] entre algunas otras cosas que en autognosis se me interpelen
+Entendimientos: [computación, matemáticas, escritura, música, estudio o análisis de sistemas, lectura, poesía {haiku}, cine] e intereses: [lógica difusa, sistemas bioinspirados | biología computacional, teoría de la información en sistemas entrópicos, sistemas inteligentes, teoría de sistemas complejos, teoría de la información], etcétera.
 
 - https://mastodon.la/@aninfant
