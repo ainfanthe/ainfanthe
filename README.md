@@ -10,6 +10,4 @@ Me subyacen variopintos entendimientos e intereses que saltan cuasi rana de biol
 ---
 > As our emblem and coat of arms, I propose a tree mightily shaken by the wind, but still bearing its ruddy fruit on every branch; with the motto Dum convellor mitescunt, or Conquassata sed ferax.
 
-<div align="CENTER">
-<img style="" src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/bd.jpg">
-</div>
+<img style="" src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/img1.png">
