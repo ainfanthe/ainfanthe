@@ -1,5 +1,5 @@
 ### ainfanthe@github:~$ introduction
-Computer science & systems engineering philo-polymath student: [...], esolang and low-level hobbyist
+Computer science & systems engineering philo-polymath student: [...], esolang and low-level hobbyist. <br>
 I'll be here for a while:
 - https://mastodon.la/@aninfant
 - https://ainfanthe.github.io
