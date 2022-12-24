@@ -1,9 +1,15 @@
-### ainfanthe@github:~$ introduction
-Estudiante filo-polímata en ciencias de la computación e ingeniería de sistemas dispuesto de sobremanera a la dilucidación de problemas, al aprendizaje, estudio e interés en diversas ramas o ámbitos del conocimiento humano: mi propia existencia se reduce a un simple accesorio, medio por el cual me conduzco cuando el entendimiento supone ser lo sustancial. <br>
-I'll be here for a while:
-- https://mastodon.la/@aninfant
-- https://ainfanthe.github.io
+### About
+Philo-polymath student in computer science and systems engineering, extremely willing to the elucidation of problems, to learning, study and interest in various branches or areas of human knowledge: my own existence is reduced to a simple accessory, means by which I conduct myself when understanding supposes to be the substantial. Reach out to me at:
+> Basta el espacio de una lápida para contener en código encuadernada abreviada mi propia vida
 
----
+- <a href="https://mastodon.la/@aninfant">@aninfant@mastodon.la</a>
+- <a href="mailto:ainfanthe@gmail.com">ainfanthe at gmail dot com</a>
+
+
+. . .  
+
+### Website
+I maintain an ugly webpage, but decent enough for my objective in it: to synthesize in a more appropriate way as well as to appreciate reflected my understandings and interests, among other things that in autognosis Interpellate me :: [person & interests](https://ainfanthe.github.io/)
+
 
 <img style="" src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/img1.png">
