@@ -8,16 +8,7 @@ Computer Science and Systems Engineering student, I trace my path towards garden
 [![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&)](mailto:ainfanthe@gmail.com)
 
 ```js
-const name = 'Felipe';
-
-Developer dev = new Developer(name);
-
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openStackOverFlow();
-  dev.drinkWater();
-}
+const name = 'Felipe'; Developer dev = new Developer(name); while(dev.isCoding()) { dev.listenToMusic(); dev.openStackOverFlow(); dev.drinkWater(); }
 ```
 
 <img style="" src="https://raw.githubusercontent.com/ainfanthe/ainfanthe/main/assets/img1.png">
